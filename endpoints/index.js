@@ -1,4 +1,4 @@
-const postd = require('./posts');
+const posts = require('./posts');
 
 module.exports = {
   posts,
